@@ -135,8 +135,25 @@
       }
     }
   ],
-  "template_version": "ai-poster-v1",
-  "artwork_mode": "openai-image-plus-factual-overlay",
+  "weather": {
+    "source": "Open-Meteo",
+    "location": "Zandvoort",
+    "condition": "Clear",
+    "temperature_c": 14.1,
+    "high_c": 24.6,
+    "low_c": 13.4,
+    "humidity_pct": 82,
+    "wind_kmh": 14.8,
+    "wind_direction_deg": 66,
+    "precipitation_mm": 0.0,
+    "rain_mm": 0.0,
+    "rain_chance_pct": 0,
+    "pressure_hpa": 1015.2,
+    "observed_at": "2026-08-25T04:45",
+    "fetched_at": "2026-08-25T02:54:44.908131+00:00"
+  },
+  "template_version": "ai-poster-v2-car-first-weather",
+  "artwork_mode": "openai-image-plus-factual-overlay-and-live-weather",
   "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png",
   "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png"
 }
