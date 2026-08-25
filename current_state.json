@@ -135,7 +135,7 @@
       }
     }
   ],
-  "template_version": "ai-poster-v3-approved",
+  "template_version": "race-winner-master-v1",
   "artwork_mode": "openai-image-plus-factual-overlay",
   "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png",
   "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png"
