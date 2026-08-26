@@ -135,8 +135,8 @@
       }
     }
   ],
-  "template_version": "race-winner-master-v1",
+  "template_version": "race-winner-reference-v2",
   "artwork_mode": "openai-image-plus-factual-overlay",
-  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png",
-  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png"
+  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png?v=race-winner-reference-v2-2026-1292-race-winner-1",
+  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png?v=race-winner-reference-v2-2026-1292-race-winner-1"
 }
