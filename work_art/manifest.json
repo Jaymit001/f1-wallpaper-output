@@ -2,6 +2,7 @@
   "wallpaper_id": "2026-1292-race-winner-1",
   "state": "race_winner",
   "generated_by": "chatgpt-work-imagegen",
+  "render_revision": "proof-20260828",
   "event_name": "Dutch Grand Prix",
   "circuit_short_name": "Zandvoort",
   "winner": "Lando Norris",
@@ -10,5 +11,5 @@
   "template_version": "race-winner-work-v3",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-08-27T00:00:00Z"
+  "generated_at": "2026-08-28T00:08:00Z"
 }
