@@ -1,6 +1,6 @@
 {
   "state": "race_winner",
-  "wallpaper_id": "2026-1292-race-winner-1",
+  "wallpaper_id": "2026-1292-race-winner-1-f1-work-v3-proof-20260828",
   "event": {
     "season": 2026,
     "meeting_key": 1292,
@@ -135,8 +135,10 @@
       }
     }
   ],
-  "template_version": "race-winner-reference-v2",
-  "artwork_mode": "openai-image-plus-factual-overlay",
-  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png?v=race-winner-reference-v2-2026-1292-race-winner-1",
-  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png?v=race-winner-reference-v2-2026-1292-race-winner-1"
+  "source_wallpaper_id": "2026-1292-race-winner-1",
+  "work_render_revision": "proof-20260828",
+  "template_version": "f1-work-v3",
+  "artwork_mode": "chatgpt-work-plus-factual-overlay",
+  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png?v=f1-work-v3-2026-1292-race-winner-1-f1-work-v3-proof-20260828",
+  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png?v=f1-work-v3-2026-1292-race-winner-1-f1-work-v3-proof-20260828"
 }

@@ -135,7 +135,7 @@
       }
     }
   ],
-  "requested_template_version": "race-winner-work-v3",
+  "requested_template_version": "f1-work-v3",
   "requested_artwork_mode": "chatgpt-work-imagegen",
   "required_outputs": {
     "lock_base": "work_art/lock_base.png",
