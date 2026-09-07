@@ -2,7 +2,7 @@
   "wallpaper_id": "2026-1293-race-winner-12",
   "state": "race_winner",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20260907T033614Z",
+  "render_revision": "20260907T043447Z",
   "event": {
     "season": 2026,
     "meeting_key": 1293,
@@ -21,5 +21,5 @@
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-09-07T03:36:14Z"
+  "generated_at": "2026-09-07T04:34:47Z"
 }
