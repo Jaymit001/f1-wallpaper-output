@@ -1,25 +1,25 @@
 {
-  "wallpaper_id": "2026-1292-race-winner-1-f1-work-v4-proof-20260828-f1-work-v4-20260904T174408Z-f1-work-v4-20260905T011734Z-f1-work-v4-20260905T094143Z",
+  "wallpaper_id": "2026-1293-race-winner-12",
   "state": "race_winner",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20260905T162028Z",
+  "render_revision": "20260907T033614Z",
   "event": {
     "season": 2026,
-    "meeting_key": 1292,
-    "event_name": "Dutch Grand Prix",
-    "country_name": "Netherlands",
-    "circuit_short_name": "Zandvoort"
+    "meeting_key": 1293,
+    "event_name": "Italian Grand Prix",
+    "country_name": "Italy",
+    "circuit_short_name": "Monza"
   },
-  "event_name": "Dutch Grand Prix",
-  "country_name": "Netherlands",
-  "circuit_short_name": "Zandvoort",
+  "event_name": "Italian Grand Prix",
+  "country_name": "Italy",
+  "circuit_short_name": "Monza",
   "season": 2026,
-  "meeting_key": 1292,
-  "winner": "Lando Norris",
-  "team": "McLaren",
-  "driver_number": 1,
+  "meeting_key": 1293,
+  "winner": "Kimi Antonelli",
+  "team": "Mercedes",
+  "driver_number": 12,
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-09-05T16:20:28Z"
+  "generated_at": "2026-09-07T03:36:14Z"
 }
