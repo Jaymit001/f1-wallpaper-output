@@ -1,25 +1,22 @@
 {
-  "wallpaper_id": "2026-1293-race-winner-12-f1-work-v4-20260907T043447Z-f1-work-v4-20260911T194257Z-f1-work-v4-20260912T002405Z",
-  "state": "race_winner",
+  "wallpaper_id": "2026-1294-main-grid",
+  "state": "main_grid",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20260912T072445Z",
+  "render_revision": "20260912T223833Z",
   "event": {
     "season": 2026,
-    "meeting_key": 1293,
-    "event_name": "Italian Grand Prix",
-    "country_name": "Italy",
-    "circuit_short_name": "Monza"
+    "meeting_key": 1294,
+    "event_name": "Spanish Grand Prix",
+    "country_name": "Spain",
+    "circuit_short_name": "Madrid"
   },
-  "event_name": "Italian Grand Prix",
-  "country_name": "Italy",
-  "circuit_short_name": "Monza",
+  "event_name": "Spanish Grand Prix",
+  "country_name": "Spain",
+  "circuit_short_name": "Madrid",
   "season": 2026,
-  "meeting_key": 1293,
-  "winner": "Kimi Antonelli",
-  "team": "Mercedes",
-  "driver_number": 12,
+  "meeting_key": 1294,
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-09-12T07:24:45Z"
+  "generated_at": "2026-09-12T22:38:33Z"
 }
