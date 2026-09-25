@@ -1,8 +1,8 @@
 {
-  "wallpaper_id": "2026-1294-race-winner-12-f1-work-v4-20260913T165821Z-f1-work-v4-20260924T184428Z-f1-work-v4-20260924T235312Z",
+  "wallpaper_id": "2026-1294-race-winner-12-f1-work-v4-20260913T165821Z-f1-work-v4-20260924T184428Z-f1-work-v4-20260924T235312Z-f1-work-v4-20260925T082405Z",
   "state": "race_winner",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20260925T082405Z",
+  "render_revision": "20260925T183851Z",
   "event": {
     "season": 2026,
     "meeting_key": 1294,
@@ -18,5 +18,5 @@
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-09-25T08:24:05Z"
+  "generated_at": "2026-09-25T18:38:51Z"
 }
