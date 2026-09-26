@@ -1,22 +1,22 @@
 {
-  "wallpaper_id": "2026-1294-race-winner-12-f1-work-v4-20260913T165821Z-f1-work-v4-20260924T184428Z-f1-work-v4-20260924T235312Z-f1-work-v4-20260925T082405Z-f1-work-v4-20260925T183851Z-f1-work-v4-20260926T002213Z",
+  "wallpaper_id": "2026-1295-race-winner-63",
   "state": "race_winner",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20260926T110614Z",
+  "render_revision": "20260926T152651Z",
   "event": {
     "season": 2026,
-    "meeting_key": 1294,
-    "event_name": "Spanish Grand Prix",
-    "country_name": "Spain",
-    "circuit_short_name": "Madring"
+    "meeting_key": 1295,
+    "event_name": "Azerbaijan Grand Prix",
+    "country_name": "Azerbaijan",
+    "circuit_short_name": "Baku"
   },
-  "event_name": "Spanish Grand Prix",
-  "country_name": "Spain",
-  "circuit_short_name": "Madring",
+  "event_name": "Azerbaijan Grand Prix",
+  "country_name": "Azerbaijan",
+  "circuit_short_name": "Baku",
   "season": 2026,
-  "meeting_key": 1294,
+  "meeting_key": 1295,
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-09-26T11:06:14Z"
+  "generated_at": "2026-09-26T15:26:51Z"
 }
