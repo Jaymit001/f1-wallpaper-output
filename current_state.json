@@ -1,42 +1,42 @@
 {
   "state": "race_winner",
-  "wallpaper_id": "2026-1294-race-winner-12-f1-work-v4-20260913T165821Z-f1-work-v4-20260924T184428Z-f1-work-v4-20260924T235312Z-f1-work-v4-20260925T082405Z-f1-work-v4-20260925T183851Z-f1-work-v4-20260926T002213Z",
+  "wallpaper_id": "2026-1295-race-winner-63-f1-work-v4-20260926T152651Z",
   "event": {
     "season": 2026,
-    "meeting_key": 1294,
-    "event_name": "Spanish Grand Prix",
-    "country_name": "Spain",
-    "circuit_short_name": "Madring"
+    "meeting_key": 1295,
+    "event_name": "Azerbaijan Grand Prix",
+    "country_name": "Azerbaijan",
+    "circuit_short_name": "Baku"
   },
   "front_row": [],
   "grid": [],
   "winner": {
     "position": 1,
     "driver": {
-      "number": 12,
-      "first_name": "Kimi",
-      "last_name": "Antonelli",
-      "full_name": "Kimi Antonelli",
+      "number": 63,
+      "first_name": "George",
+      "last_name": "Russell",
+      "full_name": "George Russell",
       "team_name": "Mercedes",
       "team_colour": "00D7B6",
-      "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/ANDANT01_Kimi_Antonelli/andant01.png.transform/1col/image.png"
+      "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
     },
-    "duration": 5663.754,
+    "duration": 5882.143,
     "gap_to_leader": 0
   },
   "podium": [
     {
       "position": 1,
       "driver": {
-        "number": 12,
-        "first_name": "Kimi",
-        "last_name": "Antonelli",
-        "full_name": "Kimi Antonelli",
+        "number": 63,
+        "first_name": "George",
+        "last_name": "Russell",
+        "full_name": "George Russell",
         "team_name": "Mercedes",
         "team_colour": "00D7B6",
-        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/ANDANT01_Kimi_Antonelli/andant01.png.transform/1col/image.png"
+        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
       },
-      "duration": 5663.754,
+      "duration": 5882.143,
       "gap_to_leader": 0
     },
     {
@@ -50,28 +50,28 @@
         "team_colour": "4781D7",
         "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
       },
-      "duration": 5668.105,
-      "gap_to_leader": 4.351
+      "duration": 5882.339,
+      "gap_to_leader": 0.196
     },
     {
       "position": 3,
       "driver": {
-        "number": 1,
-        "first_name": "Lando",
-        "last_name": "Norris",
-        "full_name": "Lando Norris",
-        "team_name": "McLaren",
-        "team_colour": "F47600",
-        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
+        "number": 6,
+        "first_name": "Isack",
+        "last_name": "Hadjar",
+        "full_name": "Isack Hadjar",
+        "team_name": "Red Bull Racing",
+        "team_colour": "4781D7",
+        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/I/ISAHAD01_Isack_Hadjar/isahad01.png.transform/1col/image.png"
       },
-      "duration": 5668.843,
-      "gap_to_leader": 5.089
+      "duration": 5892.847,
+      "gap_to_leader": 10.704
     }
   ],
   "standings": [
     {
       "position": 1,
-      "points": 292.0,
+      "points": 302.0,
       "driver": {
         "number": 12,
         "first_name": "Kimi",
@@ -84,7 +84,7 @@
     },
     {
       "position": 2,
-      "points": 211.0,
+      "points": 236.0,
       "driver": {
         "number": 63,
         "first_name": "George",
@@ -97,7 +97,7 @@
     },
     {
       "position": 3,
-      "points": 191.0,
+      "points": 199.0,
       "driver": {
         "number": 44,
         "first_name": "Lewis",
@@ -123,7 +123,7 @@
     },
     {
       "position": 5,
-      "points": 167.0,
+      "points": 179.0,
       "driver": {
         "number": 16,
         "first_name": "Charles",
@@ -135,10 +135,10 @@
       }
     }
   ],
-  "source_wallpaper_id": "2026-1294-race-winner-12-f1-work-v4-20260913T165821Z-f1-work-v4-20260924T184428Z-f1-work-v4-20260924T235312Z-f1-work-v4-20260925T082405Z-f1-work-v4-20260925T183851Z",
-  "work_render_revision": "20260926T002213Z",
+  "source_wallpaper_id": "2026-1295-race-winner-63",
+  "work_render_revision": "20260926T152651Z",
   "template_version": "f1-work-v4",
   "artwork_mode": "chatgpt-work-plus-factual-overlay",
-  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png?v=f1-work-v4-2026-1294-race-winner-12-f1-work-v4-20260913T165821Z-f1-work-v4-20260924T184428Z-f1-work-v4-20260924T235312Z-f1-work-v4-20260925T082405Z-f1-work-v4-20260925T183851Z-f1-work-v4-20260926T002213Z",
-  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png?v=f1-work-v4-2026-1294-race-winner-12-f1-work-v4-20260913T165821Z-f1-work-v4-20260924T184428Z-f1-work-v4-20260924T235312Z-f1-work-v4-20260925T082405Z-f1-work-v4-20260925T183851Z-f1-work-v4-20260926T002213Z"
+  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png?v=f1-work-v4-2026-1295-race-winner-63-f1-work-v4-20260926T152651Z",
+  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png?v=f1-work-v4-2026-1295-race-winner-63-f1-work-v4-20260926T152651Z"
 }
