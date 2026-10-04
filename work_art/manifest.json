@@ -1,22 +1,22 @@
 {
-  "wallpaper_id": "2026-1295-race-winner-63",
+  "wallpaper_id": "2026-1308-race-winner-3",
   "state": "race_winner",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20260926T152651Z",
+  "render_revision": "20261004T123059Z",
   "event": {
     "season": 2026,
-    "meeting_key": 1295,
-    "event_name": "Azerbaijan Grand Prix",
-    "country_name": "Azerbaijan",
-    "circuit_short_name": "Baku"
+    "meeting_key": 1308,
+    "event_name": "Bahrain Grand Prix",
+    "country_name": "Bahrain",
+    "circuit_short_name": "Kuala Lumpur"
   },
-  "event_name": "Azerbaijan Grand Prix",
-  "country_name": "Azerbaijan",
-  "circuit_short_name": "Baku",
+  "event_name": "Bahrain Grand Prix",
+  "country_name": "Bahrain",
+  "circuit_short_name": "Kuala Lumpur",
   "season": 2026,
-  "meeting_key": 1295,
+  "meeting_key": 1308,
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-09-26T15:26:51Z"
+  "generated_at": "2026-10-04T12:30:59Z"
 }
