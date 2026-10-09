@@ -1,6 +1,6 @@
 {
   "state": "race_winner",
-  "wallpaper_id": "2026-1308-race-winner-3",
+  "wallpaper_id": "2026-1308-race-winner-3-f1-work-v4-20261004T123059Z",
   "event": {
     "season": 2026,
     "meeting_key": 1308,
@@ -135,6 +135,12 @@
       }
     }
   ],
+  "source_wallpaper_id": "2026-1308-race-winner-3",
+  "work_render_revision": "20261004T123059Z",
+  "template_version": "f1-work-v4",
+  "artwork_mode": "chatgpt-work-plus-factual-overlay",
+  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png?v=f1-work-v4-2026-1308-race-winner-3-f1-work-v4-20261004T123059Z",
+  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png?v=f1-work-v4-2026-1308-race-winner-3-f1-work-v4-20261004T123059Z",
   "requested_template_version": "f1-work-v4",
   "requested_artwork_mode": "chatgpt-work-imagegen",
   "required_outputs": {
