@@ -1,22 +1,22 @@
 {
-  "wallpaper_id": "2026-1308-race-winner-3",
-  "state": "race_winner",
+  "wallpaper_id": "2026-1296-sprint-winner-3",
+  "state": "sprint_winner",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20261004T123059Z",
+  "render_revision": "20261010T182524Z",
   "event": {
     "season": 2026,
-    "meeting_key": 1308,
-    "event_name": "Bahrain Grand Prix",
-    "country_name": "Bahrain",
-    "circuit_short_name": "Kuala Lumpur"
+    "meeting_key": 1296,
+    "event_name": "Singapore Grand Prix",
+    "country_name": "Singapore",
+    "circuit_short_name": "Singapore"
   },
-  "event_name": "Bahrain Grand Prix",
-  "country_name": "Bahrain",
-  "circuit_short_name": "Kuala Lumpur",
+  "event_name": "Singapore Grand Prix",
+  "country_name": "Singapore",
+  "circuit_short_name": "Singapore",
   "season": 2026,
-  "meeting_key": 1308,
+  "meeting_key": 1296,
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-10-04T12:30:59Z"
+  "generated_at": "2026-10-10T18:25:24Z"
 }
