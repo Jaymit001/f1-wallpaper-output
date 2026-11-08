@@ -1,77 +1,77 @@
 {
   "state": "race_winner",
-  "wallpaper_id": "2026-1298-race-winner-3-f1-work-v4-20261102T025354Z",
+  "wallpaper_id": "2026-1299-race-winner-1",
   "event": {
     "season": 2026,
-    "meeting_key": 1298,
-    "event_name": "Mexico City Grand Prix",
-    "country_name": "Mexico",
-    "circuit_short_name": "Mexico City"
+    "meeting_key": 1299,
+    "event_name": "S\u00e3o Paulo Grand Prix",
+    "country_name": "Brazil",
+    "circuit_short_name": "Interlagos"
   },
   "front_row": [],
   "grid": [],
   "winner": {
     "position": 1,
     "driver": {
-      "number": 3,
-      "first_name": "Max",
-      "last_name": "Verstappen",
-      "full_name": "Max Verstappen",
-      "team_name": "Red Bull Racing",
-      "team_colour": "4781D7",
-      "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
+      "number": 1,
+      "first_name": "Lando",
+      "last_name": "Norris",
+      "full_name": "Lando Norris",
+      "team_name": "McLaren",
+      "team_colour": "F47600",
+      "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
     },
-    "duration": 8428.772,
+    "duration": 5723.504,
     "gap_to_leader": 0
   },
   "podium": [
     {
       "position": 1,
       "driver": {
-        "number": 3,
-        "first_name": "Max",
-        "last_name": "Verstappen",
-        "full_name": "Max Verstappen",
-        "team_name": "Red Bull Racing",
-        "team_colour": "4781D7",
-        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
+        "number": 1,
+        "first_name": "Lando",
+        "last_name": "Norris",
+        "full_name": "Lando Norris",
+        "team_name": "McLaren",
+        "team_colour": "F47600",
+        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
       },
-      "duration": 8428.772,
+      "duration": 5723.504,
       "gap_to_leader": 0
     },
     {
       "position": 2,
       "driver": {
-        "number": 44,
-        "first_name": "Lewis",
-        "last_name": "Hamilton",
-        "full_name": "Lewis Hamilton",
-        "team_name": "Ferrari",
-        "team_colour": "ED1131",
-        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
+        "number": 3,
+        "first_name": "Max",
+        "last_name": "Verstappen",
+        "full_name": "Max Verstappen",
+        "team_name": "Red Bull Racing",
+        "team_colour": "4781D7",
+        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
       },
-      "duration": 8429.571,
-      "gap_to_leader": 0.799
+      "duration": 5738.106,
+      "gap_to_leader": 14.602
     },
     {
       "position": 3,
       "driver": {
-        "number": 12,
-        "first_name": "Kimi",
-        "last_name": "Antonelli",
-        "full_name": "Kimi Antonelli",
-        "team_name": "Mercedes",
-        "team_colour": "00D7B6",
-        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/ANDANT01_Kimi_Antonelli/andant01.png.transform/1col/image.png"
+        "number": 6,
+        "first_name": "Isack",
+        "last_name": "Hadjar",
+        "full_name": "Isack Hadjar",
+        "team_name": "Red Bull Racing",
+        "team_colour": "4781D7",
+        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/I/ISAHAD01_Isack_Hadjar/isahad01.png.transform/1col/image.png"
       },
-      "duration": 8432.778,
-      "gap_to_leader": 4.006
+      "duration": 5747.989,
+      "gap_to_leader": 24.485
     }
   ],
   "standings": [
     {
       "position": 1,
-      "points": 380.0,
+      "points": 390.0,
       "driver": {
         "number": 12,
         "first_name": "Kimi",
@@ -84,7 +84,7 @@
     },
     {
       "position": 2,
-      "points": 261.0,
+      "points": 279.0,
       "driver": {
         "number": 3,
         "first_name": "Max",
@@ -97,20 +97,7 @@
     },
     {
       "position": 3,
-      "points": 259.0,
-      "driver": {
-        "number": 44,
-        "first_name": "Lewis",
-        "last_name": "Hamilton",
-        "full_name": "Lewis Hamilton",
-        "team_name": "Ferrari",
-        "team_colour": "ED1131",
-        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
-      }
-    },
-    {
-      "position": 4,
-      "points": 250.0,
+      "points": 262.0,
       "driver": {
         "number": 63,
         "first_name": "George",
@@ -122,8 +109,21 @@
       }
     },
     {
+      "position": 4,
+      "points": 261.0,
+      "driver": {
+        "number": 44,
+        "first_name": "Lewis",
+        "last_name": "Hamilton",
+        "full_name": "Lewis Hamilton",
+        "team_name": "Ferrari",
+        "team_colour": "ED1131",
+        "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
+      }
+    },
+    {
       "position": 5,
-      "points": 245.0,
+      "points": 251.0,
       "driver": {
         "number": 16,
         "first_name": "Charles",
@@ -135,12 +135,6 @@
       }
     }
   ],
-  "source_wallpaper_id": "2026-1298-race-winner-3",
-  "work_render_revision": "20261102T025354Z",
-  "template_version": "f1-work-v4",
-  "artwork_mode": "chatgpt-work-plus-factual-overlay",
-  "lockscreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/lockscreen.png?v=f1-work-v4-2026-1298-race-winner-3-f1-work-v4-20261102T025354Z",
-  "homescreen_url": "https://raw.githubusercontent.com/Jaymit001/f1-wallpaper-output/main/homescreen.png?v=f1-work-v4-2026-1298-race-winner-3-f1-work-v4-20261102T025354Z",
   "requested_template_version": "f1-work-v4",
   "requested_artwork_mode": "chatgpt-work-imagegen",
   "required_outputs": {
