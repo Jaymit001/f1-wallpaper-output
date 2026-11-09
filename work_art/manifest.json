@@ -1,22 +1,22 @@
 {
-  "wallpaper_id": "2026-1298-race-winner-3",
+  "wallpaper_id": "2026-1299-race-winner-1",
   "state": "race_winner",
   "generated_by": "chatgpt-work-imagegen",
-  "render_revision": "20261102T025354Z",
+  "render_revision": "20261109T180105Z",
   "event": {
     "season": 2026,
-    "meeting_key": 1298,
-    "event_name": "Mexico City Grand Prix",
-    "country_name": "Mexico",
-    "circuit_short_name": "Mexico City"
+    "meeting_key": 1299,
+    "event_name": "São Paulo Grand Prix",
+    "country_name": "Brazil",
+    "circuit_short_name": "Interlagos"
   },
   "season": 2026,
-  "meeting_key": 1298,
-  "event_name": "Mexico City Grand Prix",
-  "country_name": "Mexico",
-  "circuit_short_name": "Mexico City",
+  "meeting_key": 1299,
+  "event_name": "São Paulo Grand Prix",
+  "country_name": "Brazil",
+  "circuit_short_name": "Interlagos",
   "template_version": "f1-work-v4",
   "lock_base": "work_art/lock_base.png",
   "home_base": "work_art/home_base.png",
-  "generated_at": "2026-11-02T02:53:54Z"
+  "generated_at": "2026-11-09T18:01:05Z"
 }
